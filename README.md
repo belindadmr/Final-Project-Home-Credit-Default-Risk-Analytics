@@ -1,6 +1,6 @@
 # Belinda Damara
 students
-echo "# Belinda Damara" >> README.md
+echo "# belindadamara" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
